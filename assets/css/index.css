@@ -1,0 +1,17 @@
+body{
+    background: #EE2F33 !important;
+    margin:0;
+    text-align: center;
+}
+
+h1{
+    color: #fff;
+    font-size: 6rem;
+    margin-top:35vh
+}
+p{
+    color: #0066B0;
+    font-size: 4rem;
+}
+
+
